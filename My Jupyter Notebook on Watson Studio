@@ -1,0 +1,42 @@
+# My Jupyter Notebook on IBM Watson Studio
+
+**Alaa ElSakran**
+
+Data Scientist
+
+*I am interested in data science because I like finding insightful results from data. I also like to make decisions based on known data and information.*
+
+### The below code is an if statement that is supposed to print the a message if the player got a score of 5 in a game.
+
+x<-5
+if (x>=5) {
+print ("Congratulations! Your score is 5")
+} else print ("You did not pass. Try again!")
+
+Numbered List: The fruits that are available for today are:
+
+1. Apples
+
+2. Oranges
+
+3. Bananas
+
+Bulleted List: Some of the tools that can be used for data science are:
+
++ R
++ Python
++ SAS
+
+Hyperlink:
+
+<https://www.betterhealth.vic.gov.au/health/healthyliving/fruit-and-vegetables>
+
+Strikethrough:
+
+~~No Eating in this area~~
+
+
+
+
+
+
